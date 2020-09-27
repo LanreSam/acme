@@ -172,7 +172,7 @@ footer{
     text-align: center;
 }
 
-/* media queries */
+/* media queries for other devices*/
 @media(max-width: 768px){
     header #branding,
     header nav,
